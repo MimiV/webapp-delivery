@@ -8,13 +8,12 @@ another text to the customer informing him the package was delivered.(He had to 
 
 
 
-# Tasting Counter Delivery Application
-Application will be used for Tasting Counter @Home and Tasting Counter Market delivery. New version from the current application that is being used.
+<img src="images/firstProject.png" width="230" height="390">
 
+<img src="images/firstTxt.PNG" width="600" height="350">
 
-### `Mobile View`
+<img src="images/openWaze.png" width="600" height="350">
 
-<img src="images/mobile.jpg" width="230" height="390">
+<img src="images/wazePage.png" width="600" height="350">
 
-### `Web View`
-<img src="images/web.JPG" width="600" height="350">
+<img src="images/deliveredTxt.PNG" width="600" height="350">
