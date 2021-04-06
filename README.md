@@ -8,12 +8,13 @@ another text to the customer informing him the package was delivered.(He had to 
 
 
 
-<img src="images/firstProject.png" width="230" height="390">
+<img src="images/firstProject.png" width="220" height="390">
 
-<img src="images/firstTxt.PNG" width="600" height="350">
+<img src="images/firstTxt.PNG" width="220" height="390">
 
-<img src="images/openWaze.png" width="600" height="350">
+<img src="images/openWaze.png"width="220" height="390">
 
-<img src="images/wazePage.png" width="600" height="350">
+<img src="images/wazePage.png" width="220" height="390">
 
-<img src="images/deliveredTxt.PNG" width="600" height="350">
+<img src="images/deliveredTxt.PNG" width="220" height="390">
+
